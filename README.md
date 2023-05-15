@@ -1,4 +1,4 @@
-### Binomial Asset Pricing Model
+## Binomial Asset Pricing Model
 The binomial asset pricing model is a financial model used to value derivative securities (such as options) based on the assumption that the price of the underlying asset can follow a discrete set of possible price movements over time.
 
  The model is based on the concept of a binomial tree, which represents the possible future price movements of the underlying asset. It assumes that the asset price can either go up or down at each time step, and the magnitude of these price movements is determined by certain parameters. 
